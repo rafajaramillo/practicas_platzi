@@ -1,13 +1,13 @@
     h1
     {
         color: blue;
-        font-family: "courier";
+        font-family: "Arial";
         text-align: center;
     }
    
     p.nombre {
         color:darkred;
-        font-family: "courier";
+        font-family: "Arial";
         text-align: center;
         font-size: 35px;
    }
